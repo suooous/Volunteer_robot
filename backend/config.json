@@ -1,0 +1,26 @@
+{
+  "onebot_secret": "",
+  "profile": {
+    "name": "xxxx",
+    "student_id": "xxxxxx",
+    "mobile": "xxxxxx",
+    "building": "T1",
+    "college": "xxxx",
+    "student_type": "内招生",
+    "political_status": "中共预备党员",
+    "activity_name": [
+      "冰箱清理志愿",
+      "铁架台清理志愿"
+    ]
+  },
+  "settings": {
+    "auto_submit": true,
+    "dedup_ttl_seconds": 1800,
+    "max_retries": 2,
+    "goto_timeout_ms": 20000,
+    "form_wait_timeout_ms": 25000,
+    "headless": false,
+    "host": "127.0.0.1",
+    "port": 8000
+  }
+}
